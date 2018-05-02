@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="绵羊墙last" transform="translate(-106.000000, -179.000000)" fill="#47A3CB" fill-rule="nonzero">
+            <g id="表格" transform="translate(72.000000, 134.000000)">
+                <g id="表格1" transform="translate(0.000000, 34.000000)">
+                    <g id="表格内容" transform="translate(34.000000, 11.000000)">
+                        <g id="Group-2">
+                            <g id="用户">
+                                <path d="M10.6187517,8.48543326 C12.1164639,7.69451221 12.9389552,6.21932669 12.9389552,4.51420618 C12.9403446,2.02509034 10.8660549,0 8.31660971,0 C5.76577519,0 3.69148547,2.02509034 3.69148547,4.51420616 C3.69148547,6.22071184 4.44173093,7.6945122 5.93944312,8.48543325 C2.53694108,9.43564665 0,12.729535 0,16.4071102 C0,17.1703282 0.0541843934,17.9834117 1.72278583,17.995878 C3.21216197,18.0069592 11.8385952,17.9917226 14.9159909,17.995878 C16.2817155,17.9972632 16.6290514,17.2035718 16.6359981,16.4071102 C16.672121,12.7627787 14.0268112,9.43564665 10.6187517,8.48543326 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
